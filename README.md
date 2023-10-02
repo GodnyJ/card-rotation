@@ -1,4 +1,8 @@
-Animacja przedstawiająca efekt rotacji karty wywołanej w monencie najechania na kartę myszką.
+Animacja przedstawiająca efekt rotacji karty wywołanej w momencie najechania na kartę kursorem.
+
+
+https://github.com/GodnyJ/card-rotation/assets/146650429/31089748-cddf-41ef-b9c2-93bf38db0282
+
 
 # Uruchomienie
 
